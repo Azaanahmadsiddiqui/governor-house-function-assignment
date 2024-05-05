@@ -1,0 +1,13 @@
+{
+  "name": "gov-house_assignment",
+  "version": "7.7.7",
+  "description": "This is governor house course assignment that gave us by 'Miss Manaheel'. ",
+  "main": "Q1.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
